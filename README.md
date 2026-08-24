@@ -75,24 +75,13 @@ I’m currently expanding my career into software testing and quality assurance,
 - Manual web testing, test-case writing, and bug reporting.
 - Brand messaging, content planning, and technical documentation.
 - Freelance proposals, client communication, and presentation content.
+- 
+## Currently Building
 
-## GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=topweb4all&show_icons=true&hide_border=true&title_color=FFC107&icon_color=FFC107&text_color=FFFFFF&bg_color=212121"
-  alt="Omnia's GitHub statistics"
-/>
-
-<br />
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=topweb4all&layout=compact&hide_border=true&title_color=FFC107&text_color=FFFFFF&bg_color=212121"
-  alt="Top programming languages"
-/>
-
-</div>
+- 🧪 A manual software testing portfolio with test cases, bug reports, and QA documentation.
+- 🌐 Responsive WordPress and web-development projects.
+- ☕ Java practice projects as part of my QA learning journey.
+- ✍️ Clear technical documentation and educational web content.
 
 ## Connect With Me
 
