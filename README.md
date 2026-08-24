@@ -80,9 +80,17 @@ I’m currently expanding my career into software testing and quality assurance,
 
 <div align="center">
 
-![Omnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=topweb4all&show_icons=true&hide_border=true&title_color=FFC107&icon_color=FFC107&text_color=333333&bg_color=FFF8E1)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=topweb4all&show_icons=true&hide_border=true&title_color=FFC107&icon_color=FFC107&text_color=FFFFFF&bg_color=212121"
+  alt="Omnia's GitHub statistics"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=topweb4all&layout=compact&hide_border=true&title_color=FFC107&text_color=333333&bg_color=FFF8E1)
+<br />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=topweb4all&layout=compact&hide_border=true&title_color=FFC107&text_color=FFFFFF&bg_color=212121"
+  alt="Top programming languages"
+/>
 
 </div>
 
