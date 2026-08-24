@@ -7,7 +7,7 @@
 <a href="https://github.com/topweb4all">
   <img src="https://img.shields.io/badge/GitHub-topweb4all-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.upwork.com/freelancers/~01653dc0f1da32ace6?mp_source=share">
+<a href="https://www.upwork.com/freelancers/~01653dc0f1da32ace6">
   <img src="https://img.shields.io/badge/Upwork-Available%20for%20work-FFB000?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
 </a>
 <a href="https://topweb4all.blogspot.com/">
