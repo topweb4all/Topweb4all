@@ -75,7 +75,7 @@ I’m currently expanding my career into software testing and quality assurance,
 - Manual web testing, test-case writing, and bug reporting.
 - Brand messaging, content planning, and technical documentation.
 - Freelance proposals, client communication, and presentation content.
-- 
+  
 ## Currently Building
 
 - 🧪 A manual software testing portfolio with test cases, bug reports, and QA documentation.
