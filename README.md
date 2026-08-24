@@ -2,7 +2,7 @@
 
 # Hi, I'm Omnia Ahmed 👋
 
-### Web Developer • WordPress Specialist • Brand Strategist • QA Tester
+### AI Vibe Coder • Web Developer • QA Tester • Brand Strategist
 
 <a href="https://github.com/topweb4all">
   <img src="https://img.shields.io/badge/GitHub-topweb4all-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
