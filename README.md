@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- خلفية ذهبية -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6BA25&height=180&section=header&text=&fontSize=0" width="100%" alt="background" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F6BA25&height=220&section=header&text=My%20Code%20Spece&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=+%F0%9F%92%BB+%7C+%F0%9F%9A%80&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="Omnia Ahmed header" />
 
 # Hi, I'm Omnia Ahmed
 
