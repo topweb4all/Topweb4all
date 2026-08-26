@@ -74,16 +74,11 @@ These are the languages that actually match my field: frontend, WordPress sites,
 
 ---
 
-## GitHub pulse
+## Contact
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=topweb4all&show_icons=true&theme=dark&hide_border=true&title_color=F6BA25&icon_color=F6BA25&text_color=ffffff&bg_color=1a1a1a" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topweb4all&layout=compact&theme=dark&hide_border=true&title_color=F6BA25&text_color=ffffff&bg_color=1a1a1a" alt="Top languages" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=topweb4all&theme=dark&hide_border=true&ring=F6BA25&fire=F6BA25&currStreakLabel=F6BA25&background=1a1a1a" alt="GitHub streak" />
-
-</div>
+[![Upwork](https://img.shields.io/badge/Upwork-omniabdm-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/omniabdm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omnia%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniabdm/)
+[![Email](https://img.shields.io/badge/Email-Send%20me%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 ---
 
