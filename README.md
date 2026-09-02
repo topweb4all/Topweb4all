@@ -65,6 +65,26 @@ These are the languages that actually match my field: frontend, WordPress sites,
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=topweb4all&background=0d1117&border=30363d&ring=f1e05a&fire=f1e05a&currStreakLabel=f1e05a&sideLabels=c9d1d9&currStreakNum=f1e05a&sideNums=c9d1d9&hide_border=true" alt="Contribution Streak"/>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td align="center" width="65%">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=topweb4all&theme=dark&title_color=f1e05a&text_color=c9d1d9&icon_color=f1e05a&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="45%">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=topweb4all&theme=dark&title_color=f1e05a&text_color=c9d1d9&icon_color=f1e05a&layout=normal&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+---
+
 ## What I can help with
 
 - Website development (HTML/CSS/JS, React, WordPress)
