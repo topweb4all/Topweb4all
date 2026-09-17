@@ -353,11 +353,8 @@ Console-based Java learning project focused on programming fundamentals and prob
 
 ---
 
-# 📊 GitHub Activity & Achievements
+# 📊 MY GITHUB JOURNEY
 
-<div align="center">
-
-## 📊 MY GITHUB JOURNEY
 
 <div align="center">
 
@@ -384,173 +381,24 @@ Console-based Java learning project focused on programming fundamentals and prob
 
 ---
 
-# 🌱 Currently Exploring
-
-<div align="center">
-
-<h2>EXPANDING MY SKILLS • BUILDING • TESTING • IMPROVING</h2>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-<h3>🌐 WEB DEVELOPMENT</h3>
-
-Modern, responsive & user-focused web experiences.
-
-<br><br>
-
-<code>HTML</code>   <code>CSS</code>   <code>JavaScript</code>
-
-<br>
-
-<code>WordPress</code>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🧪 QA & TESTING</h3>
-
-Software quality through testing, debugging & automation.
-
-<br><br>
-
-<code>Manual QA</code>   <code>API Testing</code>
-
-<br>
-
-<code>Automation</code>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>☕ JAVA & PROGRAMMING</h3>
-
-Programming fundamentals, OOP & problem solving.
-
-<br><br>
-
-<code>Java</code>   <code>OOP</code>   <code>Logic</code>
-
-<br>
-
-<code>Algorithms</code>
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
-<h2>⚡ MY LEARNING FLOW</h2>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/01_LEARN-F6BA25?style=for-the-badge&labelColor=161616" alt="Learn"/>
-
-</td>
-
-<td align="center">
-
-<b>➜</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/02_BUILD-8B5CF6?style=for-the-badge&labelColor=161616" alt="Build"/>
-
-</td>
-
-<td align="center">
-
-<b>➜</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/03_TEST-06B6D4?style=for-the-badge&labelColor=161616" alt="Test"/>
-
-</td>
-
-<td align="center">
-
-<b>➜</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/04_IMPROVE-22C55E?style=for-the-badge&labelColor=161616" alt="Improve"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<sub>
-
-<b>LEARN</b> the concept
-  →   <b>BUILD</b> something real
-  →   <b>TEST</b> what I create
-  →   <b>IMPROVE</b> continuously
-
-</sub>
-
-<br><br>
-
-<h3>ALSO EXPLORING</h3>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-&nbsp;
-
-<img src="https://img.shields.io/badge/AI_DEVELOPMENT-8B5CF6?style=flat-square&logoColor=white" alt="AI Development"/>
-&nbsp;
-
-<img src="https://img.shields.io/badge/APIs-F97316?style=flat-square&logoColor=white" alt="APIs"/>
-&nbsp;
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logoColor=white" alt="n8n"/>
-
-<br><br>
-
-<b>━━━ ALWAYS LEARNING • ALWAYS BUILDING • ALWAYS IMPROVING ━━━</b>
-
-</div>
-
----
-
 ## 🤝 LET'S CONNECT
 
 <div align="center">
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://cdn.simpleicons.org/gmail/F6BA25" width="32" height="32" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-161616?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161616&color=F6BA25" height="38" alt="Email"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~01653dc0f1da32ace6?mp_source=share">
-<img src="https://cdn.simpleicons.org/upwork/14A800" width="32" height="32" alt="Upwork"/>
+<img src="https://img.shields.io/badge/UPWORK-161616?style=for-the-badge&logo=upwork&logoColor=white&labelColor=161616&color=14A800" height="38" alt="Upwork"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/omniabdm/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-161616?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616&color=0A66C2" height="38" alt="LinkedIn"/>
 </a>
 
 </div>
+
 
 
 
