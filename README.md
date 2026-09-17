@@ -1,111 +1,563 @@
 <div align="center">
 
-<!-- خلفية ذهبية -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6BA25&height=220&section=header&text=My%20Code%20Spece&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=+%F0%9F%92%BB+%7C+%F0%9F%9A%80&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="Omnia Ahmed header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F6BA25&height=225&section=header&text=OMNIA%20AHMED&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20QA%20Tester%20%7C%20AI-Assisted%20Builder&descSize=17&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" alt="Omnia Ahmed"/>
 
-# Hi, I'm Omnia Ahmed
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=F6BA25&center=true&vCenter=true&width=720&height=50&repeat=true&lines=AI+Vibe+Coder;Web+Developer;QA+Tester;Brand+Strategist;I+build+brands+%26+test+websites)](https://github.com/topweb4all)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F6BA25&center=true&vCenter=true&width=780&height=48&lines=Building+for+the+Web;Testing+for+Quality;Learning+Java+%26+QA+Automation;Building+with+AI;Turning+Ideas+into+Working+Products" alt="Typing SVG"/>
 
+<br><br>
 
-[![Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01653dc0f1da32ace6?mp_source=share)
-[![GitHub](https://img.shields.io/badge/GitHub-topweb4all-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/topweb4all)
-[![X](https://img.shields.io/badge/X-topweb4all-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/topweb4all)
-[![Location](https://img.shields.io/badge/Egypt-1a1a1a?style=for-the-badge&logo=googlemaps&logoColor=F6BA25)](https://github.com/topweb4all)
+<a href="https://github.com/topweb4all">
+<img src="https://img.shields.io/badge/GitHub-topweb4all-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@Topweb4all">
+<img src="https://img.shields.io/badge/YouTube-Topweb4all-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+&nbsp;
+<a href="https://x.com/topweb4all">
+<img src="https://img.shields.io/badge/X-@topweb4all-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
 
 </div>
 
 ---
 
-## About me
+<div align="center">
 
-I have been dedicated to programming since 2021. I create websites, test them for quality, and shape brand identities — with AI as part of my daily workflow.
+## 👋 Hello, I'm Omnia
 
-- I turn ideas into clean, branded websites.
-- I test user experience and report bugs clearly.
-- I use AI tools to ship faster without lowering quality.
+### Web Developer · QA Tester · AI-Assisted Builder
 
----
+I build websites, create WordPress solutions, explore software testing, and use AI tools to improve my development workflow.
 
-## Languages I use
+My work combines **Web Development, WordPress, QA, Programming, AI, Branding, and Digital Content**.
 
-These are the languages that actually match my field: frontend, WordPress sites, backend basics, and QA.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,wordpress&theme=dark" alt="Languages" />
-</p>
-
-| Skill | Why it is here |
-| --- | --- |
-| HTML · CSS · JavaScript | Core of every website I build |
-| React | Modern frontend interfaces |
-| WordPress | Client sites and brand presence |
-| Node.js · PHP | Backend and CMS work |
-| Python · Java | Learning focus for QA, logic, and tools |
+</div>
 
 ---
 
-## Tools I work with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,notion,figma,postman,selenium,bash&theme=dark" alt="Tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" />
-</p>
-
-- **Build:** VS Code, Cursor, Git, GitHub, Linux (Fedora)
-- **AI workflow:** Claude Code, Cursor, OpenCode
-- **QA:** Postman, Selenium, manual web testing
-- **Brand & ops:** Notion, Figma, WordPress, Blogger, n8n, Docker
-
----
-
-## 📊 GitHub Stats
+# 💼 My Services
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=topweb4all&background=0d1117&border=30363d&ring=f1e05a&fire=f1e05a&currStreakLabel=f1e05a&sideLabels=c9d1d9&currStreakNum=f1e05a&sideNums=c9d1d9&hide_border=true" alt="Contribution Streak"/>
+<table width="100%">
+<tr>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td align="center" width="65%">
-      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=topweb4all&theme=dark&title_color=f1e05a&text_color=c9d1d9&icon_color=f1e05a&hide_border=true" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="45%">
-      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=topweb4all&theme=dark&title_color=f1e05a&text_color=c9d1d9&icon_color=f1e05a&layout=normal&hide_border=true" alt="Top Languages"/>
-    </td>
-  </tr>
+<td width="50%" valign="top">
+
+## 🌐 Web Development
+
+**Custom Web Pages**
+Responsive pages built with HTML, CSS and JavaScript.
+
+**WordPress Development**
+Custom websites, themes, pages and plugins.
+
+**Landing Pages**
+Focused pages for businesses, services and products.
+
+**Website Improvements**
+Responsive fixes, UI improvements and front-end updates.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 QA & Testing
+
+**Manual Website Testing**
+Checking functionality, usability and UI issues.
+
+**Test Cases**
+Creating structured testing scenarios.
+
+**Bug Reporting**
+Clear reproduction steps and expected results.
+
+**API Testing**
+Testing requests and responses using Postman.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI-Assisted Development
+
+**AI-Assisted Coding**
+Using modern AI coding tools during development.
+
+**Debugging & Code Analysis**
+Using AI to investigate problems and explore solutions.
+
+**Workflow Automation**
+Building practical automation workflows with n8n.
+
+**Rapid Prototyping**
+Turning ideas into working prototypes quickly.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎨 Digital & Brand Services
+
+**Brand Identity**
+Visual concepts and brand direction.
+
+**Digital Presence**
+Consistent online experiences for brands.
+
+**Portfolio Websites**
+Professional personal and business portfolios.
+
+**Content & Visual Assets**
+Digital content and visual materials.
+
+</td>
+
+</tr>
 </table>
 
 </div>
----
-
-## What I can help with
-
-- Website development (HTML/CSS/JS, React, WordPress)
-- Website testing and UX feedback
-- Brand identity and digital presence
-- AI-assisted development workflows
 
 ---
 
-## Contact
+# 🧰 Tech Toolbox
 
-[![Upwork](https://img.shields.io/badge/Upwork-omniabdm-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/omniabdm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omnia%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniabdm/)
-[![Email](https://img.shields.io/badge/Email-Send%20me%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+## 🌐 Web Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,wordpress&perline=7&theme=dark" alt="Web Development"/>
+
+</div>
+
+---
+
+## 💻 Programming & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,bash&perline=6&theme=dark" alt="Programming and Data"/>
+
+</div>
+
+---
+
+## 🧪 Development & QA
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,selenium&perline=7&theme=dark" alt="Development and QA"/>
+
+</div>
+
+---
+
+# 🎨 Design & Content
+
+<div align="center">
+
+<a href="https://www.figma.com/">
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" alt="Figma"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.notion.so/">
+<img src="https://cdn.simpleicons.org/notion/ffffff" width="48" height="48" alt="Notion"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.canva.com/">
+<img src="https://img.icons8.com/color/96/canva.png" width="48" height="48" alt="Canva"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://wordpress.org/">
+<img src="https://cdn.simpleicons.org/wordpress/21759B" width="48" height="48" alt="WordPress"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.blogger.com/">
+<img src="https://cdn.simpleicons.org/blogger/FF5722" width="48" height="48" alt="Blogger"/>
+</a>
+
+</div>
+
+---
+
+# 🤖 AI Tools
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" height="48" alt="Cursor"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/anthropic/ffffff" width="48" height="48" alt="Claude"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/opencode/ffffff" width="48" height="48" alt="OpenCode"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/>
+
+</div>
+
+> **AI accelerates my workflow — but I still review, test, understand, and improve the result.**
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### Selected projects across development, WordPress, testing, and creative work.
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐛 Bug Scanner
+
+Python-based testing utilities for detecting syntax errors and running tests across multiple programming languages.
+
+<br>
+
+`PYTHON` `TESTING` `AUTOMATION`
+
+<br><br>
+
+<a href="https://github.com/topweb4all/bug_scanner">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-F6BA25?style=for-the-badge&logoColor=181717" alt="View Bug Scanner"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Geometric Quad Game
+
+Interactive educational browser game focused on draggable elements, frontend interaction, controls, and game logic.
+
+<br>
+
+`HTML` `CSS` `JAVASCRIPT`
+
+<br><br>
+
+<a href="https://github.com/topweb4all/Geometric-Quad-Game">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-F6BA25?style=for-the-badge&logoColor=181717" alt="View Geometric Quad Game"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💬 Chat WordPress Plugin
+
+WordPress plugin featuring a floating chat interface and WordPress-based message handling.
+
+<br>
+
+`WORDPRESS` `PHP` `PLUGIN`
+
+<br><br>
+
+<a href="https://github.com/topweb4all/Chat-Wordpress-plugin">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-F6BA25?style=for-the-badge&logoColor=181717" alt="View Chat WordPress Plugin"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📝 Omlin Author Theme
+
+WordPress theme project focused on creating a professional web presence for authors and content creators.
+
+<br>
+
+`WORDPRESS` `PHP` `THEME`
+
+<br><br>
+
+<a href="https://github.com/topweb4all/omlin-author-theme">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-F6BA25?style=for-the-badge&logoColor=181717" alt="View Omlin Author Theme"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 👩‍💻 Omnia Portfolio
+
+Personal portfolio project combining web development, personal branding, and digital presentation.
+
+<br>
+
+`HTML` `CSS` `JAVASCRIPT`
+
+<br><br>
+
+<a href="https://github.com/topweb4all/omnia-portfolio">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-F6BA25?style=for-the-badge&logoColor=181717" alt="View Omnia Portfolio"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☕ Java Employee Management
+
+Console-based Java learning project focused on programming fundamentals and problem solving.
+
+<br>
+
+`JAVA` `OOP` `PROBLEM SOLVING`
+
+<br><br>
+
+<a href="https://github.com/topweb4all?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_PROJECTS-F6BA25?style=for-the-badge&logoColor=181717" alt="View Java Projects"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/topweb4all?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=F6BA25" alt="Explore all projects"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Activity & Achievements
+
+<div align="center">
+
+## 📊 MY GITHUB JOURNEY
+
+<div align="center">
+
+
+
+<br>
+
+<h3>🔥 CONTRIBUTION STREAK</h3>
+
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com/?user=topweb4all&theme=dark&hide_border=true&background=161616&ring=F6BA25&fire=F6BA25&currStreakLabel=F6BA25&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="700" alt="GitHub Contribution Streak"/>
+</a>
+
+<br><br>
+
+<h3>📈 CONTRIBUTION ACTIVITY</h3>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=topweb4all&theme=github_dark" width="95%" alt="GitHub Contribution Activity"/>
+
+<br><br>
+
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+<h2>EXPANDING MY SKILLS • BUILDING • TESTING • IMPROVING</h2>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center">
+
+<h3>🌐 WEB DEVELOPMENT</h3>
+
+Modern, responsive & user-focused web experiences.
+
+<br><br>
+
+<code>HTML</code>   <code>CSS</code>   <code>JavaScript</code>
+
+<br>
+
+<code>WordPress</code>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🧪 QA & TESTING</h3>
+
+Software quality through testing, debugging & automation.
+
+<br><br>
+
+<code>Manual QA</code>   <code>API Testing</code>
+
+<br>
+
+<code>Automation</code>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>☕ JAVA & PROGRAMMING</h3>
+
+Programming fundamentals, OOP & problem solving.
+
+<br><br>
+
+<code>Java</code>   <code>OOP</code>   <code>Logic</code>
+
+<br>
+
+<code>Algorithms</code>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<h2>⚡ MY LEARNING FLOW</h2>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/01_LEARN-F6BA25?style=for-the-badge&labelColor=161616" alt="Learn"/>
+
+</td>
+
+<td align="center">
+
+<b>➜</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/02_BUILD-8B5CF6?style=for-the-badge&labelColor=161616" alt="Build"/>
+
+</td>
+
+<td align="center">
+
+<b>➜</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/03_TEST-06B6D4?style=for-the-badge&labelColor=161616" alt="Test"/>
+
+</td>
+
+<td align="center">
+
+<b>➜</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/04_IMPROVE-22C55E?style=for-the-badge&labelColor=161616" alt="Improve"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<sub>
+
+<b>LEARN</b> the concept
+  →   <b>BUILD</b> something real
+  →   <b>TEST</b> what I create
+  →   <b>IMPROVE</b> continuously
+
+</sub>
+
+<br><br>
+
+<h3>ALSO EXPLORING</h3>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/AI_DEVELOPMENT-8B5CF6?style=flat-square&logoColor=white" alt="AI Development"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/APIs-F97316?style=flat-square&logoColor=white" alt="APIs"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logoColor=white" alt="n8n"/>
+
+<br><br>
+
+<b>━━━ ALWAYS LEARNING • ALWAYS BUILDING • ALWAYS IMPROVING ━━━</b>
+
+</div>
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://cdn.simpleicons.org/gmail/F6BA25" width="32" height="32" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~01653dc0f1da32ace6?mp_source=share">
+<img src="https://cdn.simpleicons.org/upwork/14A800" width="32" height="32" alt="Upwork"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/omniabdm/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" alt="LinkedIn"/>
+</a>
+
+</div>
+
+
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6BA25&height=120&section=footer" width="100%" alt="footer" />
-
-**Open to freelance work** · Let's build something people remember.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F6BA25&height=150&section=footer&text=Build%20%E2%80%A2%20Test%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" alt="Build Test Learn Improve"/>
 
 </div>
